@@ -10,3 +10,9 @@
   <img src="https://img.shields.io/github/stars/AbderrahmaneTaha/NGNROS?&color=yellow&style=flat-square">
   <img src="https://img.shields.io/github/issues/AbderrahmaneTaha/NGNROS?color=blue&style=flat-square">
 </p>
+
+
+
+<p align="center">
+NGNR OS: "A modern, lightweight operating system based on <a href="https://www.archlinux.org">Arch Linux</a>, and tailored specifically for Engineers". 
+</p>
