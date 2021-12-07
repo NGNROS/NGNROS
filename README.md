@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/AbderrahmaneTaha/releases/total?label=downloads&logo=github&color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/downloads/AbderrahmaneTaha/releases/total?&color=bluelabel=downloads&logo=github&style=flat-square">
   <img src="https://img.shields.io/github/stars/AbderrahmaneTaha/NGNROS?&color=yellow&style=flat-square">
-  <img src="https://img.shields.io/github/issues/AbderrahmaneTaha/NGNROS?color=blue&style=flat-square">
+  <img src="https://img.shields.io/github/issues/AbderrahmaneTaha/NGNROS?color=red&style=flat-square">
 </p>
