@@ -8,5 +8,5 @@
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square">
   <img src="https://img.shields.io/github/downloads/AbderrahmaneTaha/releases/total?label=downloads&logo=github&color=blue&style=flat-square">
   <img src="https://img.shields.io/github/stars/AbderrahmaneTaha/NGNROS?style=flat-square">
- 
+  <img src="https://img.shields.io/github/issues/AbderrahmaneTaha/NGNRO?color=violet&style=flat-square">
 </p>
