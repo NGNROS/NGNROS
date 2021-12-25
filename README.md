@@ -16,3 +16,5 @@
 <p align="center">
 NGNR OS: "A modern, lightweight operating system based on <a href="https://www.archlinux.org">Arch Linux</a>, and tailored specifically for Engineers". 
 </p>
+
+
