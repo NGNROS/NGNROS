@@ -14,7 +14,11 @@
 
 
 <p align="center">
-NGNR OS: "A modern, lightweight operating system based on <a href="https://www.archlinux.org">Arch Linux</a>, and tailored specifically for Engineers". 
+NGNR OS: "A modern, lightweight operating system based on <a href="https://www.archlinux.org">Arch Linux</a>, tailored specifically for Engineers". 
+</p>
+
+<p align="center">
+Visit our website from here <a href="https://ngnros.netlify.app/">from here</a>. 
 </p>
 
 ### Download The ISO
@@ -25,8 +29,6 @@ Download latest release of `ISO` from here:
   <a href="" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Download-Sourceforge-orange?style=for-the-badge&logo=sourceforge"></a>&nbsp;&nbsp;
   <a href="" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Download-Torrent-magenta?style=for-the-badge&logo=discogs"></a>
 </p>
-
-
 
 <p align="left">
 Or you check all the releases <a href="https://github.com/NGNROS/releases">from here</a>. 
