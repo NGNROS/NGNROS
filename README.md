@@ -33,6 +33,6 @@ Or you check all the releases <a href="https://github.com/NGNROS/releases">from 
 </p>
 
 ### Defaults
-> The default `username` and `password` are **"liveuser"**.
+The default `username` and `password` are **"liveuser"**.
 
 
