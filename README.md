@@ -25,16 +25,14 @@ Visit our website from here <a href="https://ngnros.netlify.app/">from here</a>.
 
 Download latest release of `ISO` from here:
 <p align="center">
-  <a href="https://github.com/ngnros/releases/" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Download-Github-blue?style=for-the-badge&logo=github"></a>&nbsp;&nbsp;
+  <a href="https://github.com/NGNROS/releases/releases" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Download-Github-blue?style=for-the-badge&logo=github"></a>&nbsp;&nbsp;
   <a href="" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Download-Sourceforge-orange?style=for-the-badge&logo=sourceforge"></a>&nbsp;&nbsp;
   <a href="" target="_blank"><img alt="undefined" src="https://img.shields.io/badge/Download-Torrent-magenta?style=for-the-badge&logo=discogs"></a>
 </p>
 
-<p align="left">
-Or you check all the releases <a href="https://github.com/NGNROS/releases">from here</a>. 
-</p>
 
 ### Defaults
-The default `username` and `password` are **"liveuser"**.
+> The password for the liveuser is `1234`.
 
+> Use the XFCE session.
 
