@@ -32,7 +32,7 @@ Download latest release of `ISO` from here:
 
 
 ### Defaults
-> The password for the liveuser is `1234`.
+> liveuser password is `live`.
 
-> Use the XFCE session.
+> root password is `toor`.
 
